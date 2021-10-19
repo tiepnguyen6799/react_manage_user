@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Tiep1",
+        "tel":"0965670615",
+        "Permission":1
+    },
+    {
+        "id":2,
+        "name":"Tiep2",
+        "tel":"0965670615",
+        "Permission":1
+    },
+    {
+        "id":3,
+        "name":"Tiep3",
+        "tel":"0965670615",
+        "Permission":2
+    },
+    {
+        "id":4,
+        "name":"Nam",
+        "tel":"0965670615",
+        "Permission":3
+    },
+    {
+        "id":5,
+        "name":"Tu Tran",
+        "tel":"0965670615",
+        "Permission":1
+    }
+]
